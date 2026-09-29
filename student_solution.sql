@@ -1,6 +1,6 @@
 use sanjayDB;
-ALTER TABLE Student
+ALTER TABLE student
 add Email VARCHAR(30);
 ALTER TABLE student
-add Phone_number int(10);
-Desc Student;
+add phone_number int(10);
+Desc student;
